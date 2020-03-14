@@ -1,12 +1,12 @@
 # Wine-Recommendation-System
 
-#### Data set: 
+#### About Dataset: 
 
 1) Dataset is from kaggle:- https://www.kaggle.com/zynicide/wine-reviews
 
 2) Data set consisted of reviews given by different wine tasters. 
 
-#### Machine Learning ALgorithms Used:
+#### Machine Learning Algorithms Used:
 1) Collaborative filtering
 2) KNN algorithm
 
